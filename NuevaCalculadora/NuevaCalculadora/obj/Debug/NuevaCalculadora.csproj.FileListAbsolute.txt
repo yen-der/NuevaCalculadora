@@ -1,0 +1,11 @@
+C:\Users\lester\source\repos\NuevaCalculadora\NuevaCalculadora\obj\Debug\NuevaCalculadora.csproj.AssemblyReference.cache
+C:\Users\lester\source\repos\NuevaCalculadora\NuevaCalculadora\obj\Debug\NuevaCalculadora.Form1.resources
+C:\Users\lester\source\repos\NuevaCalculadora\NuevaCalculadora\obj\Debug\NuevaCalculadora.Properties.Resources.resources
+C:\Users\lester\source\repos\NuevaCalculadora\NuevaCalculadora\obj\Debug\NuevaCalculadora.csproj.GenerateResource.cache
+C:\Users\lester\source\repos\NuevaCalculadora\NuevaCalculadora\obj\Debug\NuevaCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\lester\source\repos\NuevaCalculadora\NuevaCalculadora\bin\Debug\NuevaCalculadora.exe.config
+C:\Users\lester\source\repos\NuevaCalculadora\NuevaCalculadora\bin\Debug\NuevaCalculadora.exe
+C:\Users\lester\source\repos\NuevaCalculadora\NuevaCalculadora\bin\Debug\NuevaCalculadora.pdb
+C:\Users\lester\source\repos\NuevaCalculadora\NuevaCalculadora\obj\Debug\NuevaCalculadora.exe
+C:\Users\lester\source\repos\NuevaCalculadora\NuevaCalculadora\obj\Debug\NuevaCalculadora.pdb
+C:\Users\lester\source\repos\NuevaCalculadora\NuevaCalculadora\obj\Debug\NuevaCalculadora.exe.config
